@@ -1,1 +1,0 @@
-import{ir as e}from"./_plugin-vue_export-helper-EcZ6EkdJ.js";var t=e({token:``,loadingShow:!1,board:[],classify:[],tag:[],stockList:[],sha:{}});export{t};
